@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Real-Time Vehicle Detection.<br>👯 I’m looking to collaborate on PixelWhisperer.<br>🌱 I’m currently learning Npde.js, React.js.<br>
+🔭 I’m currently working on Real-Time Vehicle Detection.<br>👯 I’m looking to collaborate on PixelWhisperer.<br>🌱 I’m currently learning Node.js, React.js.<br>
 
 
 ## 🌐 Socials:
